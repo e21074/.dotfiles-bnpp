@@ -1,5 +1,7 @@
 #Aliases
 alias ll='ls -lashi'
+alias mci='mvn clean install -U -s settings.xml -DskipTests'
+alias mcit='mvn clean install -U -s settings.xml'
 
 # ---------------- Variables ----------------
 export H2_IMAGE=oscarfonts/h2:2.0.204
@@ -14,15 +16,3 @@ source /usr/share/bash-completion/completions/git 2>/dev/zero || :
 # ---------------- Docker installation ----------------
 sudo apt-get install -y ca-certificates curl gnupg lsb-release
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-
-# ---------------- Pull H2 image ----------------
-docker pull $H2_IMAGE
-
-# ---------------- Run h2 image ----------------
-docker run --publish 1521:1521 -d --publish 81:81 --name h2instance $H2_IMAGE
-
-# ---------------- Git clone database repository ---------------- 
-# TODO: 
-# 1) git clone database repo targeted branch
-# 2) apply schema files to H2 (via flyway maybe...)
-# 3) apply dbunit files to h2
