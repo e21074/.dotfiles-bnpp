@@ -1,0 +1,461 @@
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:30	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:29	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:28	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:27	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:26	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:25	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:24	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:23	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:22	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:21	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:20	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:19	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:18	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:17	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:16	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:15	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:14	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:13	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:12	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:11	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:10	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:09	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:08	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:07	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:06	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:05	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:04	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	0:03	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream AvroPrice -> Filter -> Timestamps/Watermarks is under Highlevel backpressure. Keep monitoring
+Attention: the stream AggregatePric	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	0:02	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream Avro	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	0:01	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream Avro	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	0:00	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AvroPr	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:59	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AvroPr	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:58	Attention: the stream Source: KafkaToPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AvroPr	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:57	Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream Jo	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:56	Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream Jo	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:55	Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Highlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream Jo	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:54	Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream 	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:53	Attention: the stream JoinCobPositionAndSecurityForOptionStream -> Filter is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream 	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Ср 23:52	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:51	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:50	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:49	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:48	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:47	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:46	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:45	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:44	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:43	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:42	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:41	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:40	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:39	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:38	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:37	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:36	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:35	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:34	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:33	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:32	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:31	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:30	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:29	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:28	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:27	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:26	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:25	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:24	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:23	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:22	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:21	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:20	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:19	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Ср 23:18	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Ср 23:17	Attention: the stream Source: KafkaToPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPosit	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Ср 23:16	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 23:58	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 23:57	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Вт 23:31	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Вт 23:30	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Вт 23:29	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Вт 23:28	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Вт 23:26	Attention: the stream AggregatePricesToLatestPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Вт 23:25	Attention: the stream AggregatePricesToLatestPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Вт 23:24	Attention: the stream AggregatePricesToLatestPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Вт 23:23	Attention: the stream AggregatePricesToLatestPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAll	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 23:22	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:41	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:40	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:39	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:39	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:37	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:36	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:35	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:34	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Вт 20:33	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:35	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:34	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:33	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:32	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:31	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:30	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:29	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 22:28	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:10	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:08	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:08	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:07	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:06	Attention: the stream AggregatePricesToLatestPriceStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:05	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:04	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:03	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:02	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 18:01	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:59	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:59	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:58	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:57	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:56	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:55	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:54	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:53	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:52	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:50	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:49	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:49	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:47	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:46	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:45	Attention: the stream AggregatePricesToLatestPriceStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWind	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:44	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:44	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:43	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWi	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:41	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream W_PositionAllWi	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:40	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:39	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:39	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:38	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:36	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPrice	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:36	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEqui	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:35	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEqui	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:34	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:32	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:31	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:30	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:29	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:28	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:28	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:26	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:26	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:24	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:23	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:22	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:21	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:20	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	CRITICAL	Пн 17:19	Attention: the stream JoinEquityPriceAndPositionStream is under Criticallevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpress	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:19	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpressure.	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:17	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+Attention: the stream JoinOptionAndEquityPositionStream -> JoinSecurityAndPositionStream -> OPositionStreamToPricer is under Mediumlevel backpressure.	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:16	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:15	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:14	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:13	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:12	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:11	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:10	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:09	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:08	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:07	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	HIGH	Пн 17:06	Attention: the stream JoinEquityPriceAndPositionStream is under Highlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 17:05	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 17:04	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
+SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	Пн 17:04	Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
+	
