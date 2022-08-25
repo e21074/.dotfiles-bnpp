@@ -1,3 +1,4 @@
+From	Subject	Received	Message	
 SVC2RUXGPFDBLENSP@bnpparibas.com	MEDIUM	0:30	Attention: the stream AggregatePricesToLatestPriceStream is under Mediumlevel backpressure. Keep monitoring
 Attention: the stream JoinEquityPriceAndPositionStream is under Mediumlevel backpressure. Keep monitoring
 	
